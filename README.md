@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [Introduction](#intro)
+* [Introduction](#introduction)
 * [Exploration](#exploration)
 * [Conclusion](#conclusion)
-* [Tools Used](#toolsUsed)
+* [Tools Used](#tools-used)
 * [License](#license)
 
 ## Introduction
