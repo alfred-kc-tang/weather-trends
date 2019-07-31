@@ -1,4 +1,4 @@
-# [Explore-Weather-Trends-Project](https://alfred-kctang.github.io/Explore-Weather-Trends-Project/)
+# [Explore Weather Trends](https://alfred-kctang.github.io/Explore-Weather-Trends-Project/)
 
 ## Table of Contents
 
