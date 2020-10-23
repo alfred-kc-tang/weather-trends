@@ -39,4 +39,4 @@ On the basis of the data visualization, the following findings are discovered:
 
 ## License
 
-This repository is covered under the [MIT License](https://choosealicense.com/licenses/mit/).
+This repository is covered under the [MIT License](https://github.com/alfred-kctang/weather-trends/blob/master/LICENSE).
